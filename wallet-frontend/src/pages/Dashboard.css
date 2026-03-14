@@ -1,0 +1,30 @@
+.dashboard-container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 30px auto;
+}
+
+.dashboard-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.dashboard-actions {
+  display: flex;
+  gap: 12px;
+  margin: 20px 0;
+  justify-content: center;
+}
+
+.dashboard-actions button {
+  padding: 10px 16px;
+  border: none;
+  background: #5f259f;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.dashboard-actions button:hover {
+  background: #4a1d7a;
+}

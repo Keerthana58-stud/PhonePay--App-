@@ -1,0 +1,22 @@
+/* Global styles */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+input {
+  outline: none;
+}

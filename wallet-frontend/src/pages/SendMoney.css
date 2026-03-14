@@ -1,0 +1,48 @@
+.send-money-page {
+  min-height: calc(100vh - 70px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.send-money-card {
+  width: 380px;
+  background: white;
+  padding: 28px;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+}
+
+.send-money-card h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #5f259f;
+}
+
+.send-money-card form {
+  display: flex;
+  flex-direction: column;
+}
+
+.send-money-card input {
+  margin-bottom: 14px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  outline: none;
+}
+
+.send-money-card button {
+  padding: 10px;
+  border: none;
+  background: #5f259f;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.send-money-card button:hover {
+  background: #4a1d7a;
+}
