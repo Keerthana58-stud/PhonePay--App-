@@ -236,7 +236,7 @@ GET /transactions/user/{upiId}
 
 ## Author
 
-Keerthi
+Chenna Keerthana
 
 B.Tech Engineering Student
 Interested in AI/ML and Full Stack Development
